@@ -1,4 +1,4 @@
-# Factory-Template-Design-Pattern
+#Real time example of interface , abstract class , constructor in abstract class Factory-Template-Design-Pattern
 using System;
 using System.Collections.Generic;
 using System.Xml;
