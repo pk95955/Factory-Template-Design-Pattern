@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+
+<div class="row">
+   
+    <div class="col-md-4">
+       Attendance File Upload
+        <input type="file" id="attendanceFileUpload" />
+        <input type="button" value="Post" onclick="PostData()" />
+    </div>
+</div>
+<script type="text/javascript">
+    function PostData() {
+        let formData = new FormData();
+        let fileData = document.getElementById("attendanceFileUpload").files;
+        fileData = fileData.length > 0 ? fileData[0] : null;
+        formData.append("AttnFile", fileData);
+        formData.append("type", "1");
+        $.ajax({
+            url: '@Url.Content("http://localhost:10889/Home/AttnProcessData")',
+            type: 'POST',
+            data: formData,
+            contentType: false,
+            processData: false,
+            success: function () {
+                alert('dsafdf');
+            },
+            error: function () {
+
+            }                       
+        })
+    }
+</script>

@@ -1,0 +1,23 @@
+[
+  {
+    "empNo": "AB001",
+    "empName": "Aihsa Bind",
+    "attendanceDate": "20 Jul 2020",
+    "inTime": "09:15",
+    "outTime": "16:12"
+  },
+  {
+    "empNo": "BK001",
+    "empName": "Bk",
+    "attendanceDate": "20 Jul 2020",
+    "inTime": "09:01",
+    "outTime": "16:65"
+  },
+  {
+    "empNo": "PB0012",
+    "empName": "Pravesh Kumar",
+    "attendanceDate": "20 Jul 2020",
+    "inTime": "09:30",
+    "outTime": "16:00"
+  }
+]

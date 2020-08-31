@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<attendance>
+<employee>
+   <empNo>N023</empNo>
+      <empName>Ak Bind</empName>
+      <date>2020 Jul 01</date>
+      <in>10:21</in>
+      <out>17:01</out>  
+   </employee>
+  <employee>
+       <empNo>N023</empNo>
+      <empName>Pk Bind</empName>
+      <date>2020 Jul 01</date>
+      <in>10:10</in>
+      <out>17:11</out>  
+   </employee>
+</attendance>

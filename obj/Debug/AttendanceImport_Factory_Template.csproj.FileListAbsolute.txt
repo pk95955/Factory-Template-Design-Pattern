@@ -1,0 +1,150 @@
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\csc.exe
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\System.Collections.Immutable.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\vbc.exe
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\VBCSCompiler.exe
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\VBCSCompiler.exe.config
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\AttendanceImport_Factory_Template.dll.config
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\AttendanceImport_Factory_Template.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\AttendanceImport_Factory_Template.pdb
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Antlr3.Runtime.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\EntityFramework.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\EntityFramework.SqlServer.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Google.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Web.Infrastructure.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Newtonsoft.Json.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Owin.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Helpers.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Mvc.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Optimization.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Razor.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.WebPages.Deployment.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.WebPages.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.WebPages.Razor.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\WebGrease.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Helpers.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Mvc.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Optimization.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Razor.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.WebPages.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.WebPages.Deployment.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.WebPages.Razor.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Antlr3.Runtime.pdb
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Newtonsoft.Json.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\EntityFramework.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\EntityFramework.SqlServer.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Google.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\obj\Debug\AttendanceImport_Factory_Template.csprojResolveAssemblyReference.cache
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\obj\Debug\AttendanceImport_Factory_Template.dll
+c:\users\trident mt581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\obj\Debug\AttendanceImport_Factory_Template.pdb
+C:\Users\TRIDENT MT581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\ExcelDataReader.DataSet.dll
+C:\Users\TRIDENT MT581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\ExcelDataReader.dll
+C:\Users\TRIDENT MT581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\ExcelDataReader.pdb
+C:\Users\TRIDENT MT581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\ExcelDataReader.xml
+C:\Users\TRIDENT MT581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\ExcelDataReader.DataSet.pdb
+C:\Users\TRIDENT MT581\documents\visual studio 2015\Projects\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\ExcelDataReader.DataSet.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\obj\Debug\AttendanceImport_Factory_Template.csprojResolveAssemblyReference.cache
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\obj\Debug\AttendanceImport_Factory_Template.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\obj\Debug\AttendanceImport_Factory_Template.pdb
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\csc.exe
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\System.Collections.Immutable.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\System.Reflection.Metadata.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\vbc.exe
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\VBCSCompiler.exe
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\roslyn\VBCSCompiler.exe.config
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\AttendanceImport_Factory_Template.dll.config
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\AttendanceImport_Factory_Template.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\AttendanceImport_Factory_Template.pdb
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Antlr3.Runtime.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\EntityFramework.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\EntityFramework.SqlServer.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\ExcelDataReader.DataSet.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\ExcelDataReader.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Google.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Web.Infrastructure.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Newtonsoft.Json.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Owin.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Helpers.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Mvc.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Optimization.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Razor.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.WebPages.Deployment.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.WebPages.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.WebPages.Razor.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\WebGrease.dll
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\ExcelDataReader.pdb
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\ExcelDataReader.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\ExcelDataReader.DataSet.pdb
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\ExcelDataReader.DataSet.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Helpers.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Mvc.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Optimization.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.Razor.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.WebPages.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.WebPages.Deployment.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\System.Web.WebPages.Razor.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Antlr3.Runtime.pdb
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Newtonsoft.Json.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\EntityFramework.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\EntityFramework.SqlServer.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Google.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Design Pattern\AttendanceImport_Factory_Template\AttendanceImport_Factory_Template\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
